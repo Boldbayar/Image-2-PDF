@@ -1,4 +1,4 @@
-ulas-converter
+Image to PDF
 =================
 
-Converts and combines images to single PDF file.
+Converts and combines images to single PDF file in last folder.
