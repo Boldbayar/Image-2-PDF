@@ -1,2 +1,4 @@
-# Image-2-PDF
-Image to PDF (including .tiff) using Java Swing
+ulas-converter
+=================
+
+Converts and combines images to single PDF file.
